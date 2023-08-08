@@ -1,5 +1,5 @@
 package com.padhi.bean;
-
+//This is a test message to confirm change in git
 public class User {
 	
 	private int id;
